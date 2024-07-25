@@ -6,10 +6,13 @@ Your fluffy friend that looks for transitive dependencies.
 <div class="frame" style="text-align: center;">
   <div class="border">
     <div class="image">
-      <img src="/vulcat.png"width="250" alt="" />
+      <img src="/vulcat.png" width="250px" alt="" />
     </div><!--end image-->
   </div><!--end border-->
 </div><!--end frame-->
+
+✨[Download script here](https://raw.githubusercontent.com/tomacco/vulcat/main/src/vul_cat.sh)✨
+
 
 ## About
 
