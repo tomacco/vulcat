@@ -1,33 +1,3 @@
-<style>
-
-.frame {
-  margin:50px auto;
-  border:25px solid #222;
-  height:400px;
-  width:400px;
-  -webkit-box-shadow:  1px 2px 3px 1px rgba(0, 0, 0, .5);
-  box-shadow:  0 3px 10px 4px rgba(0, 0, 0, .3);
-}
-
-.border {
-  background:white;
-  height:100%;
-  width:100%;
-  -webkit-box-shadow: inset 10px 10px 10px 4px rgba(0, 0, 0, .4);
-  box-shadow: inset 3px 7px 2px 5px rgba(0, 0, 0, .4);
-}
-
-.image {
-  position:absolute;
-  height:250px;
-  width:250px;
-  margin-left:50px;
-  margin-top:50px;
-  -webkit-box-shadow: inset 10px 10px 10px 4px rgba(0, 0, 0, .6);
-  box-shadow: inset 3px 7px 2px 5px rgba(0, 0, 0, .1);
-  border:2px inset #c9c9c9;
-}
-</style>
 
 # Vulcat
 
